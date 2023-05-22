@@ -1,3 +1,3 @@
 function sort() {
-  console.log("sort");
+  [1.2, 3];
 }
