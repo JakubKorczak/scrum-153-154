@@ -2,6 +2,8 @@ function sort() {
   [1.2, 3];
 }
 
-function filter(params) {
-  console.log("filter");
+function pagination() {}
+
+function filters(params) {
+  console.log("filters");
 }
